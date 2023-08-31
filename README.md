@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @doliusviesar, an undergraduate student
-- 👀 I’m interested in studying about the history, culture and also the science and the economic
-- 🌱 I’m currently learning for the cyber security engineer's degree
-- 💞️ I’m looking to a chance on a state-level project and the international-level project
+- 👀 I’m interested in exploring about the history, culture and also the science and the economic
+- 🌱 I’m currently studying for the security information engineer's degree
+- 💞️ I’m looking to a chance on a nation-level project and the international-level project
 - 📫 Any contact, please mail me at: doliusviesar@gmail.com
 
 <!---
